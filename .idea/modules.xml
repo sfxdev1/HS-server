@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hailstorm-server.iml" filepath="$PROJECT_DIR$/.idea/modules/hailstorm-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hailstorm-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hailstorm-server_main.iml" group="hailstorm-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hailstorm-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hailstorm-server_test.iml" group="hailstorm-server" />
     </modules>
   </component>
 </project>

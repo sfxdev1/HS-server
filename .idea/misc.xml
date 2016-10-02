@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="C:/RedstoneUtil" value="1465774752775" />
-        <entry key="$USER_HOME$/Documents/IdeaWorkspace/generalUtils" value="2928053576499" />
-        <entry key="$USER_HOME$/Documents/forge-1.8.9-11.15.0.1690-mdk" value="1452314974196" />
-        <entry key="$USER_HOME$/Documents/lib-GDX/test-game" value="5831007145862" />
-        <entry key="$USER_HOME$/Documents/lib-GDX/test-platform" value="5831893107369" />
-        <entry key="$USER_HOME$/IdeaProjects/SilenceEngine" value="2907870783174" />
-        <entry key="C:/forge-1.9.4-12.17.0.1954-mdk" value="1465445114222" />
-        <entry key="C:/lib-gdx/vector" value="7324528243172" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
